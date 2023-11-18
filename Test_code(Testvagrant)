@@ -1,0 +1,32 @@
+ import java.util.*;
+public class Textvagrant_text {
+class Products{
+String LeatherWallet;
+void price(){
+System.out.println(1100);
+}
+void GST(){
+System.out.println(0.18);
+}
+void quantity(){
+System.out.println(1);
+}
+}
+}
+class umbrella extends Products{
+this.price=900;
+this.GST=0.12;
+this.quantity=4;
+}
+class cigarette extends Products{
+this.price=200;
+this.GST=0.28;
+this.quantity=3;
+}
+class Honey extends Products{
+this.price=100;
+this.GST=0;
+this.quantity=2;
+}
+public static void main(String[] args){
+}
